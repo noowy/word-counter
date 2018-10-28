@@ -1,5 +1,5 @@
 # word-counter
-Counts words in given text file  
+Counts words in given text file (UNI Project)  
   
 Usage:
 "./wordcount.py --count/topcount/countmore1/sortcount filename"
